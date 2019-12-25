@@ -6,4 +6,4 @@ SO.MANY.CHANGES.
 
 THIS CHANGES ARE DONE SO AS TO CHECK STUFF, OK? SO DO NOT FREAK OUT!
 
-Here are some changes from the new branch.
+Here are some changes for the new branch.
