@@ -1,4 +1,4 @@
-This dile is made to test the Git. Please do not add or remove anything.
+This file is made to test the Git. Please do not add or remove anything.
 Oh really?
 Look what I did!
 Can ya stop me, huh??
