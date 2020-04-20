@@ -7,3 +7,6 @@ SO.MANY.CHANGES.
 THIS CHANGES ARE DONE SO AS TO CHECK STUFF, OK? SO DO NOT FREAK OUT!
 
 Here are some changes for the new branch.
+
+
+Master Branch changes
