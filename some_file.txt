@@ -9,3 +9,5 @@ THIS CHANGES ARE DONE SO AS TO CHECK STUFF, OK? SO DO NOT FREAK OUT!
 Here are some changes for the new branch.
 
 New changes to try new stuff!!
+
+Master Branch changes
